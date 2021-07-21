@@ -84,4 +84,6 @@ function orderArray(newArray) {
 }
 console.log(orderArray(array3));
 
-
+//5. Juego Sopa de letras (Legend):
+// **Escribe una función que dado un array de palabras, devuelva un array bidimensional de caracteres en la que las letras de una palabra se encuentren seguidas (diagonal, vertical u horizontal)
+// **Escribe una función que dado un array bidimensional de caracteres y un string, te diga si el string se encuentra o no en el array de letras (diagonal, vertical u horizontal)"
