@@ -1,0 +1,6 @@
+.casilla {
+  width: 100px;
+  height: 100px;
+  background-color: #fccc74;
+  display: flex;
+}
