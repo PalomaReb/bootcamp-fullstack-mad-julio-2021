@@ -1,0 +1,29 @@
+.calculator_screen_container {
+  margin: 10px;
+  height: 25rem;
+  width: 20rem;
+}
+
+.visualArea {
+  border-style: solid;
+}
+
+.operationstring {
+  text-align: right;
+  font-size: 12px;
+}
+
+.resultSpan {
+  display: flex;
+}
+
+.resultnumber {
+  font-weight: bold;
+  text-align: right;
+  font-size: 40px;
+}
+.operationNumber {
+  text-align: left;
+  font-weight: bold;
+  font-size: 26px;
+}
