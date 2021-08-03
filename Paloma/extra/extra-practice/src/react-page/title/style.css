@@ -1,0 +1,22 @@
+.container {
+  text-align: left;
+  margin-left: 120px;
+  width: 80%;
+}
+
+.greyish {
+  color: #7d7d80;
+  font-size: 18px;
+}
+.tip-box {
+  padding: 15px 0px 15px 10px;
+  border-left-width: 9px;
+  border-left-style: solid;
+  background-color: #ffe5644d;
+  border-left-color: #ffe564;
+}
+.tiplink {
+  background-color: #bbeffd4d;
+  color: black;
+  border-bottom: 1px solid #bbeffd4d;
+}
