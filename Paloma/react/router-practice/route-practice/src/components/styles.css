@@ -1,0 +1,13 @@
+.nav-bar {
+  background-color: black;
+}
+.link-display {
+  display: flex;
+  list-style: none;
+  justify-content: space-around;
+}
+
+.nav-text {
+  font-style: none;
+  color: white;
+}
